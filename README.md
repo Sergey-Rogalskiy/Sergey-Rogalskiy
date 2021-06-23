@@ -5,7 +5,7 @@
 
 ## Where to find me
 
-[![Gmail Badge](https://img.shields.io/badge/-rogalskiy.sergey@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rogalskiy.sergey@gmail.com)](mailto:rogalskiy.sergey@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-rogalskiy.sergey@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rogalskiy.sergey@gmail.com)](mailto:rogalskiy.sergey@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sergei-rogalskii/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/SegaRogulkin)
 [![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=0D76A8)](https://vk.com/id11722264)
@@ -27,44 +27,26 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
 <br>
-
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-CSS3
-HTML5
-JavaScript
-React JS
-Git
-Redux
-TypeScript
-PostgreSQL
-Python
-Flask
-Atlassian Jira
-Mentoring
-Webpack 5
-WebSockets
-REST API
-JSON
-Jest
-Cypress
-</details>
+![](https://img.shields.io/badge/Tools-Webpack5-informational?style=flat&logo=Webpack5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-WebSockets-informational?style=flat&logo=WebSockets&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-REST API-informational?style=flat&logo=RESTAPI&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-JSON-informational?style=flat&logo=JSON&logoColor=white&color=4AB197)
+
 <br>
 
 <!---
