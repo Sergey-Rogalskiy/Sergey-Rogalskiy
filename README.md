@@ -12,18 +12,6 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rogalskiy.sergey@gmail.com/)](rogalskiy.sergey@gmail.com/)
 <p> You can view my resume <a href='https://spb.hh.ru/resume/cda5f0ebff08f19b080039ed1f733161394778' target=_blank><u>here</u>.</a></p>
 
-## My stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Rogalskiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## My loving reps 
-<a href="https://github.com/Sergey-Rogalskiy/react-burger">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=react-burger" />
-</a>
-<a href="https://github.com/Sergey-Rogalskiy/flask_Corey-Schafer_study">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=flask_Corey-Schafer_study" />
-</a>
 
 ## 💼 Skills
 
@@ -47,8 +35,21 @@
 ![](https://img.shields.io/badge/Tools-WebSockets-informational?style=flat&logo=WebSockets&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-RESTAPI-informational?style=flat&logo=RESTAPI&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-JSON-informational?style=flat&logo=JSON&logoColor=white&color=4AB197)
-
 <br>
+
+## My loving reps 
+<a href="https://github.com/Sergey-Rogalskiy/react-burger">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=react-burger" />
+</a>
+<a href="https://github.com/Sergey-Rogalskiy/flask_Corey-Schafer_study">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=flask_Corey-Schafer_study" />
+</a>
+
+## My stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Rogalskiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Sergey-Rogalskiy/Sergey-Rogalskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
