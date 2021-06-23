@@ -44,6 +44,9 @@
 <a href="https://github.com/Sergey-Rogalskiy/flask_Corey-Schafer_study">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=flask_Corey-Schafer_study" />
 </a>
+<a href="https://github.com/FortyTwoTeam/react-project-kitchen-frontend">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=FortyTwoTeam&repo=react-project-kitchen-frontend" />
+</a>
 
 ## My stats
 
