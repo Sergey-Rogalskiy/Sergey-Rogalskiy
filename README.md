@@ -2,26 +2,23 @@
 ## Welcome to my page!
 👋 I'm @Sergey-Rogalskiy, self-educated developer from  Saint-Petersburg, Russia.
 👀 I’m interested in CRM, Web (React) and python backend
-📫 How to reach me: 
-1) 
-2) 
-3) https://vk.com/id11722264
 
-# My badges
+## Where to find me
 
-[![Visits Badge](https://badges.pufler.dev/visits/Sergey-Rogalskiy/Sergey-Rogalskiy)](https://github.com/Sergey-Rogalskiy/Sergey-Rogalskiy)
+[![Visits Badge](https://badges.pufler.dev/visits/Sergey-Rogalskiy/)](https://github.com/Sergey-Rogalskiy/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sergei-rogalskii/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/SegaRogulkin)
+[![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=0D76A8)](https://vk.com/id11722264)
 
-# My reps
+## My reps
 
 [React-burger](https://github.com/Sergey-Rogalskiy/react-burger) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Rogalskiy.react-burger)
 
-# My stats
+## My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-# Pinned reps
+## Pinned reps
 <a href="https://github.com/Sergey-Rogalskiy/react-burger">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=react-burger&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -54,7 +51,6 @@
 </details>
 <br>
 
-<br>
 <!---
 Sergey-Rogalskiy/Sergey-Rogalskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
