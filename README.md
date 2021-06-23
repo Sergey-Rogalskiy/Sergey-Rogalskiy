@@ -58,6 +58,6 @@ You can click the Preview link to take a look at your changes.
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rogalskiy.sergey@gmail.com alt=rogalskiy.sergey@gmail.com /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rogalskiy.sergey@gmail.com&show_icons=true&include_all_commits=true)](https://github.com/rogalskiy.sergey@gmail.com/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogalskiy.sergey@gmail.com&layout=compact)](https://github.com/rogalskiy.sergey@gmail.com/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true&include_all_commits=true)](https://github.com/Sergey-Rogalskiy/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Rogalskiy&layout=compact)](https://github.com/Sergey-Rogalskiy/)
 
