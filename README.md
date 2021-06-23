@@ -17,10 +17,14 @@ My
 My reps
 [React-burger](https://github.com/Sergey-Rogalskiy/react-burger) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Rogalskiy.react-burger)
 
-https://github.com/anuraghazra/github-readme-stats
-
+My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+Pinned reps
+
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <!---
 Sergey-Rogalskiy/Sergey-Rogalskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
