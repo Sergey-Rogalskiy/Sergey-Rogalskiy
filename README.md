@@ -10,15 +10,12 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/SegaRogulkin)
 [![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=0D76A8)](https://vk.com/id11722264)
 
-## My reps
-
-[React-burger](https://github.com/Sergey-Rogalskiy/react-burger) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Rogalskiy.react-burger)
-
 ## My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Rogalskiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Pinned reps
+## My reps
 <a href="https://github.com/Sergey-Rogalskiy/react-burger">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=react-burger&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
