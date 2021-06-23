@@ -17,7 +17,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Rogalskiy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My reps
+## My loving reps 
 <a href="https://github.com/Sergey-Rogalskiy/react-burger">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=react-burger" />
 </a>
@@ -46,7 +46,24 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-
+CSS3
+HTML5
+JavaScript
+React JS
+Git
+Redux
+TypeScript
+PostgreSQL
+Python
+Flask
+Atlassian Jira
+Mentoring
+Webpack 5
+WebSockets
+REST API
+JSON
+Jest
+Cypress
 </details>
 <br>
 
@@ -54,15 +71,4 @@
 Sergey-Rogalskiy/Sergey-Rogalskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hey 👋, This is Sergei Rogalskii
-
-[![Linkedin Badge](https://img.shields.io/badge/-rogalskiy.sergey@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogalskiy.sergey@gmail.com/)](https://www.linkedin.com/in/rogalskiy.sergey@gmail.com/)
-[![Github Badge](https://img.shields.io/badge/-rogalskiy.sergey@gmail.com-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rogalskiy.sergey@gmail.com/)](https://www.github.com/rogalskiy.sergey@gmail.com/) 
-[![Twitter Badge](https://img.shields.io/badge/-rogalskiy.sergey@gmail.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rogalskiy.sergey@gmail.com/)](https://www.twitter.com/rogalskiy.sergey@gmail.com/) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rogalskiy.sergey@gmail.com/)](rogalskiy.sergey@gmail.com/) <p align='left'> You can view my resume <a href='rogalskiy.sergey@gmail.com ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Sergey-Rogalskiy alt=Sergey-Rogalskiy /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true&include_all_commits=true)](https://github.com/Sergey-Rogalskiy/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Rogalskiy&layout=compact)](https://github.com/Sergey-Rogalskiy/)
 
