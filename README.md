@@ -1,6 +1,6 @@
 # Hello there!
 ## Welcome to my page!
-👋 I'm @Sergey-Rogalskiy, self-educated developer from  Saint-Petersburg, Russia.
+👋 I'm @Sergey-Rogalskiy, self-educated developer from  Saint-Petersburg, Russia.<br>
 👀 I’m interested in CRM, Web (React) and python backend
 
 ## Where to find me
