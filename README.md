@@ -52,3 +52,12 @@
 Sergey-Rogalskiy/Sergey-Rogalskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Hey 👋, This is Sergei Rogalskii
+[![Gmail Badge](https://img.shields.io/badge/-rogalskiy.sergey@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rogalskiy.sergey@gmail.com)](mailto:rogalskiy.sergey@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-rogalskiy.sergey@gmail.com-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogalskiy.sergey@gmail.com/)](https://www.linkedin.com/in/rogalskiy.sergey@gmail.com/) [![Github Badge](https://img.shields.io/badge/-rogalskiy.sergey@gmail.com-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rogalskiy.sergey@gmail.com/)](https://www.github.com/rogalskiy.sergey@gmail.com/) [![Twitter Badge](https://img.shields.io/badge/-rogalskiy.sergey@gmail.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rogalskiy.sergey@gmail.com/)](https://www.twitter.com/rogalskiy.sergey@gmail.com/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rogalskiy.sergey@gmail.com/)](rogalskiy.sergey@gmail.com/) <p align='left'> You can view my resume <a href='rogalskiy.sergey@gmail.com ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=rogalskiy.sergey@gmail.com alt=rogalskiy.sergey@gmail.com /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=rogalskiy.sergey@gmail.com&show_icons=true&include_all_commits=true)](https://github.com/rogalskiy.sergey@gmail.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogalskiy.sergey@gmail.com&layout=compact)](https://github.com/rogalskiy.sergey@gmail.com/github-readme-stats)
+
