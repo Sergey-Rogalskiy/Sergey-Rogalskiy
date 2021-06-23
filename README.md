@@ -14,9 +14,10 @@ My
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat)
 
-React-burger ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Rogalskiy.react-burger)
+My reps
+React-burger ![[visitors](https://github.com/Sergey-Rogalskiy/react-burger)](https://visitor-badge.glitch.me/badge?page_id=Sergey-Rogalskiy.react-burger)
 
-https://github.com/anuraghazra/github-readme-stats <br>
+https://github.com/anuraghazra/github-readme-stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
