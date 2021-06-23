@@ -15,7 +15,7 @@ My
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat)
 
 My reps
-![React-burger](https://github.com/Sergey-Rogalskiy/react-burger) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Rogalskiy.react-burger)
+[React-burger](https://github.com/Sergey-Rogalskiy/react-burger) ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Rogalskiy.react-burger)
 
 https://github.com/anuraghazra/github-readme-stats
 
