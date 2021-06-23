@@ -20,6 +20,10 @@ https://github.com/anuraghazra/github-readme-stats <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!---
 Sergey-Rogalskiy/Sergey-Rogalskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
