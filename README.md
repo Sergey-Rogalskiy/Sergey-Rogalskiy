@@ -18,10 +18,7 @@ React-burger ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sergey-Ro
 
 https://github.com/anuraghazra/github-readme-stats <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergey-Rogalskiy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
