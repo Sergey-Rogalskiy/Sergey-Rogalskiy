@@ -19,20 +19,13 @@
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 <br>
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
 <br>
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Webpack5-informational?style=flat&logo=Webpack5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-WebSockets-informational?style=flat&logo=WebSockets&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-RESTAPI-informational?style=flat&logo=RESTAPI&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-JSON-informational?style=flat&logo=JSON&logoColor=white&color=4AB197)
 <br>
 
 ## My loving reps 
