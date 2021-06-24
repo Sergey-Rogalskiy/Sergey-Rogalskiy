@@ -5,11 +5,9 @@
 
 ## Where to find me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-rogalskiy.sergey@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rogalskiy.sergey@gmail.com)](mailto:rogalskiy.sergey@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sergei-rogalskii/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/SegaRogulkin)
-[![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=0D76A8)](https://vk.com/id11722264)
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rogalskiy.sergey@gmail.com/)](rogalskiy.sergey@gmail.com/)
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=rogalskiy.sergey@gmail.com/)](https://github.com/Sergey-Rogalskiy)
 <p> You can view my resume <a href='https://spb.hh.ru/resume/cda5f0ebff08f19b080039ed1f733161394778' target=_blank><u>here</u>.</a></p>
 
 
