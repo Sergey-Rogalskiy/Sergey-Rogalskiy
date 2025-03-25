@@ -29,6 +29,9 @@
 <br>
 
 ## My loving reps 
+<a href="https://github.com/Sergey-Rogalskiy/todo-recoil">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=todo-recoil" />
+</a>
 <a href="https://github.com/Sergey-Rogalskiy/react-burger">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Sergey-Rogalskiy&repo=react-burger" />
 </a>
